@@ -5,15 +5,15 @@ A script to encrypt and decrypt files
 
 Text:
 
-<img src"https://discord.com/channels/650066825794551808/650066826243604493/1129339798813954108">
+<img src"https://cdn.discordapp.com/attachments/650066826243604493/1129339798608429148/image.png">
 
 Encrypt:
 
-<img src="https://discord.com/channels/650066825794551808/650066826243604493/1129339972781097032">
+<img src="https://cdn.discordapp.com/attachments/650066826243604493/1129339972621709322/image.png">
 
 Decrypt:
 
-<img src="https://discord.com/channels/650066825794551808/650066826243604493/1129339338442936351>
+<img src="https://cdn.discordapp.com/attachments/650066826243604493/1129339338233225226/image.png">
 
 # Usage
 
