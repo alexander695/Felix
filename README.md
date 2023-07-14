@@ -5,7 +5,7 @@ A script to encrypt and decrypt files
 
 Text:
 
-<img src"https://cdn.discordapp.com/attachments/650066826243604493/1129339798608429148/image.png">
+<img src="https://cdn.discordapp.com/attachments/650066826243604493/1129339798608429148/image.png">
 
 Encrypt:
 
