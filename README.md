@@ -27,11 +27,11 @@ The Extension arg is for specify the extension of the file, this is opcional (de
 
 # Example
 
-python enc.py <file> decrypt 
+python enc.py < file > decrypt 
 
 
 or
 
-python enc.py <file> encrypt .uarebeginhacked
+python enc.py < file > encrypt .uarebeginhacked
 
 
